@@ -10,3 +10,5 @@ PROBLEMS:
       https://codeforces.com/problemset/problem/230/B
       https://codeforces.com/problemset/problem/670/D2
       https://codeforces.com/problemset/problem/670/D1
+      https://codeforces.com/contest/760/problem/B
+      https://codeforces.com/contest/1613/problem/C
